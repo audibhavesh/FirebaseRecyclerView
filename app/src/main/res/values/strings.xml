@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebaserecycler</string>
+    <string name="event">Event</string>
+</resources>
